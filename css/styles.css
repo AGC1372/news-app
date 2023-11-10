@@ -1,0 +1,29 @@
+
+.aboutme {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+.interest{
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
+
+.musicsamples{
+    display: inline-block;
+    position: relative;
+    left: 300px;
+}
+
+.work{
+    display: inline-block;
+    position: relative;
+    left: 400px;
+}
+
+.contact{
+    display: inline-block;
+    position: relative;
+    left: 500px;
+}
